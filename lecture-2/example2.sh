@@ -4,7 +4,7 @@ read num1
 read num2
 #Multiple operations 
 sum=$((num1+num2)) 
-diff=$((num1-num2)
+diff=$((num1-num2))
 product=$((num1*num2)) 
 division=$((num1/num2))
 #Display results
