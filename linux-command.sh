@@ -3,6 +3,6 @@ echo "Executing simple linux commands"
  whoami
  pwd
  date
- cal 2025
+ cal -3
  mkdir linux-practice
  touch linux-practice.txt
