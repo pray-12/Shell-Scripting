@@ -4,5 +4,6 @@ echo "Executing simple linux commands"
  pwd
  date
  cal -3
+ ping
  mkdir linux-practice
  touch linux-practice.txt
